@@ -1,4 +1,4 @@
-## https://github.com/rfiu/ProgrammingAssignment2/edit/master/cachematrix.R
+## https://github.com/rfiu/ProgrammingAssignment2
 ## 1st commit SHA-1 hash identifier: 2ae3185ec63eae9199fc7ebce79ba51a0c842990
 ## R Programming Assignment 2: Lexical Scoping--caching the inverse of a matrix
 
